@@ -1,0 +1,118 @@
+{
+  "users": [
+    {
+      "customerId": 1,
+      "name": "Sid",
+      "amount": 450,
+      "transactionDate": "01-01-2022"
+    },
+    {
+      "customerId": 1,
+      "name": "Sid",
+      "amount": 12,
+      "transactionDate": "01-21-2022"
+    },
+    {
+      "customerId": 1,
+      "name": "Sid",
+      "amount": 900,
+      "transactionDate": "01-21-2022"
+    },
+    {
+      "customerId": 1,
+      "name": "Sid",
+      "amount": 500,
+      "transactionDate": "03-01-2022"
+    },
+    {
+      "customerId": 1,
+      "name": "Sid",
+      "amount": 10,
+      "transactionDate": "03-21-2022"
+    },
+    {
+      "customerId": 1,
+      "name": "Sid",
+      "amount": 200,
+      "transactionDate": "02-01-2022"
+    },
+    {
+      "customerId": 1,
+      "name": "Sid",
+      "amount": 1,
+      "transactionDate": "02-04-2022"
+    },
+    {
+      "customerId": 1,
+      "name": "Sid",
+      "amount": 800,
+      "transactionDate": "02-03-2022"
+    },
+    {
+      "customerId": 1,
+      "name": "Sid",
+      "amount": 224,
+      "transactionDate": "02-21-2022"
+    },
+    {
+      "customerId": 2,
+      "name": "Manfred",
+      "amount": 1250,
+      "transactionDate": "01-01-2022"
+    },
+    {
+      "customerId": 2,
+      "name": "Manfred",
+      "amount": 705,
+      "transactionDate": "01-21-2022"
+    },
+    {
+      "customerId": 2,
+      "name": "Manfred",
+      "amount": 170,
+      "transactionDate": "03-01-2022"
+    },
+    {
+      "customerId": 2,
+      "name": "Manfred",
+      "amount": 755,
+      "transactionDate": "03-21-2022"
+    },
+    {
+      "customerId": 2,
+      "name": "Manfred",
+      "amount": 900,
+      "transactionDate": "02-01-2022"
+    },
+    {
+      "customerId": 2,
+      "name": "Manfred",
+      "amount": 824,
+      "transactionDate": "02-21-2022"
+    },
+    {
+      "customerId": 3,
+      "name": "Diego",
+      "amount": 620,
+      "transactionDate": "03-21-2022"
+    },
+    {
+      "customerId": 3,
+      "name": "Diego",
+      "amount": 10,
+      "transactionDate": "04-21-2022"
+    },
+    {
+      "customerId": 3,
+      "name": "Diego",
+      "amount": 700,
+      "transactionDate": "07-21-2022"
+    },
+    {
+      "customerId": 3,
+      "name": "Diego",
+      "amount": 909,
+      "transactionDate": "03-21-2022"
+    }
+  ]
+}
