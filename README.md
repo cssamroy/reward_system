@@ -1,5 +1,9 @@
 # Rewards system using json server and react
 
+## Demo 
+![Reward-system-react](https://user-images.githubusercontent.com/102529018/165323554-1b8dac72-5d87-439c-97d4-db987f36cf8e.gif)
+
+
 ### How to get started
 
 1. Clone the repo
